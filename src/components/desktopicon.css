@@ -1,0 +1,33 @@
+.desktopicons {
+    height: 40px;
+    width: 40px;
+}
+
+.desktopicon {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
+
+.appname {
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: -5px;
+    align-self: center;
+}
+
+.namediv {
+    display: flex;
+    width: 40px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.imagediv {
+    display: flex;
+    width: 40px;
+    justify-content: center;
+    margin-left: 20px;
+}
