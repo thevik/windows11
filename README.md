@@ -8,6 +8,9 @@ Now its 8/17/2021 I got like 12 hours to complete and then I wanted to make some
 
 I could bring changes to this if I feel something missing in the Ui which is very necesarry :D
 
+![Windows 11](https://user-images.githubusercontent.com/87564479/126081408-4177e5b1-9dd0-445e-ba67-ee1ab9125a8a.png)
+This is how it turned out to be in last
+
 ## Available Scripts
 
 In the project directory, you can run:
