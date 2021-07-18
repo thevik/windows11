@@ -25,13 +25,16 @@ function Taskbar() {
                 <img src={word} className="icon" alt="Windows"></img>
                 <img src={edge} className="icon" alt="Windows"></img>
                 <div className="righticons">
-                    <img src={uparrow} className="righticon" alt="Windows"></img>
+                    <img src={uparrow} onClick="#popup" className="righticon" alt="Windows"></img>
                     <img src={wifi} className="righticon" alt="Windows"></img>
                     <img src={sound} className="righticon" alt="Windows"></img>
                     <img src={charging} className="righticon" alt="Windows"></img>
                     <img src={time} className="righticon" alt="Windows" style={{marginRight: 25}}></img>
                     <img src={notification} className="righticon" alt="Windows"></img>
                 </div>
+            </div>
+            <div id="popup" class="overlay">
+                <h1>Hello World hahahahah</h1>
             </div>
         </div>
     )

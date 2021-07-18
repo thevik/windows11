@@ -5,4 +5,7 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  -webkit-user-select: none;
+  color: white;
+  text-shadow: 2px 2px 2px #000;
 }
