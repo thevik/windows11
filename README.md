@@ -6,7 +6,7 @@ So the journey started at 7PM on 7/17/2021, my plan was to make the taskbar and 
 
 Now its 8/17/2021 I got like 12 hours to complete and then I wanted to make some pop-ups when you click in the taskbar and other icons will redirect to the official website of the app, and at last I have to style some hower things and then the windows 11 UI clone is complete.
 
-I could bring changes to this if I feel something missing in the Ui which is very necesarry :D
+I could bring changes to this if I feel something missing in the Ui which is very necesarry :D ( and is easy because I am a nub )
 
 ![Windows 11](https://user-images.githubusercontent.com/87564479/126081408-4177e5b1-9dd0-445e-ba67-ee1ab9125a8a.png)
 This is how it turned out to be in last
